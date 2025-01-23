@@ -1,0 +1,9 @@
+{
+	"directory": "OTPbackground",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [400, 700],
+	"girlfriend": [100, 130],
+	"opponent": [-400, 700]
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Opening Night",
+			"rachel",
+			[
+				143,
+				59,
+				46
+			]
+		],
+		[
+			"Off The Pufferfish",
+			"tyler",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Creaking Woods",
+			"creaking",
+			[
+				55,
+				48,
+				47
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "otherstuff",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

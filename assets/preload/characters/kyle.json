@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				615
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-9
+			],
+			"anim": "grab",
+			"fps": 24,
+			"name": "grab",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-29
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ALTidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "themiss"
+		},
+		{
+			"offsets": [
+				84,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				28,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "hellmiss"
+		},
+		{
+			"offsets": [
+				-13,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "youmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kylereal",
+	"position": [
+		20,
+		240
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		80,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
