@@ -81,6 +81,18 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Electronic Escapades Team'],
+			['LimikoReal',			'ele/limikoreal',		'Creator, Director, Programmer, Artist',						'https://bsky.app/profile/limikoreal.bsky.social',					'444444'],
+			['Tri\'s Musical Mind',	'ele/trismusicalmind',	'Co-Director, Artist, Musician',								'https://bsky.app/profile/did:plc:blujem75yer4bm7xh7u3t4ak',		'B42F71'],
+			['TheRealJayyz',		'ele/therealjayyz',		'Programmer, Animator, and Artist ',							'https://bsky.app/profile/therealjayyz.bsky.social',				'5E99DF'],
+			['JustSomeGuy',			'ele/justsomeguy',		'Artist and Animator',											'https://x.com/JustSome__1',										'444444'],
+			['XolaCola',			'ele/xolacola',			'Artist, Charter, and Programmer',								'https://www.tiktok.com/@xolsalt',									'B42F71'],
+			['Felx Lamp',			'ele/felxlamp',			'Musician',														'https://x.com/FelxLamp',											'444444'],
+			['Sonic2Glitter',		'ele/sonicstarr3',		'Concept Artist',												'https://bsky.app/profile/sonic2glitter.bsky.social',				'5E99DF'],
+			['No_Blanks',			'ele/noblanks',			'Artist',														'https://x.com/No_Blanks_art',										'444444'],
+			['Tetrolt',				'ele/tetrolt',			'Charter',														'https://bsky.app/profile/tetrolt.bsky.social',						'B42F71'],
+			['Zoyo14',				'ele/zoyo14',			'Former Dev\nCo-Director and logo artist',						'https://www.tumblr.com/zoyo14',									'5E99DF'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
