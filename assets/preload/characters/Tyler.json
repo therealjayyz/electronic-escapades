@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-7,
-				-31
+				1,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,52 +13,74 @@
 		},
 		{
 			"offsets": [
-				420,
-				615
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dead",
-			"indices": [],
-			"name": "death"
-		},
-		{
-			"offsets": [
-				27,
-				-9
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "grab",
-			"indices": [],
-			"name": "grab"
-		},
-		{
-			"offsets": [
-				29,
-				-29
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [],
-			"name": "ALTidle"
-		},
-		{
-			"offsets": [
-				70,
-				-4
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "left000"
-		},
-		{
-			"offsets": [
-				-34,
+				0,
 				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shocked",
+			"indices": [],
+			"name": "shocked"
+		},
+		{
+			"offsets": [
+				550,
+				520
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "death",
+			"indices": [],
+			"name": "ded"
+		},
+		{
+			"offsets": [
+				101,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missLEFT000"
+		},
+		{
+			"offsets": [
+				13,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downmiss000"
+		},
+		{
+			"offsets": [
+				-11,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rightMiss000"
+		},
+		{
+			"offsets": [
+				50,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upmiss000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
 			],
 			"indices": [],
 			"fps": 24,
@@ -68,19 +90,19 @@
 		},
 		{
 			"offsets": [
-				-17,
-				78
+				98,
+				0
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singLEFT",
 			"loop": false,
-			"name": "up000"
+			"name": "left000"
 		},
 		{
 			"offsets": [
-				8,
-				-41
+				9,
+				-61
 			],
 			"indices": [],
 			"fps": 24,
@@ -90,66 +112,33 @@
 		},
 		{
 			"offsets": [
-				-45,
-				1
+				53,
+				89
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "singUP",
 			"loop": false,
-			"name": "themiss000"
-		},
-		{
-			"offsets": [
-				84,
-				-1
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "missleft000"
-		},
-		{
-			"offsets": [
-				28,
-				-67
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "hellmiss000"
-		},
-		{
-			"offsets": [
-				-13,
-				99
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUPmiss",
-			"loop": false,
-			"name": "youmiss000"
+			"name": "up000"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/kylereal",
+	"image": "characters/realTyler",
 	"position": [
-		20,
-		240
+		0,
+		0
 	],
-	"healthicon": "kyle",
-	"flip_x": true,
+	"healthicon": "tyler",
+	"flip_x": false,
 	"healthbar_colors": [
-		74,
-		129,
-		108
+		241,
+		241,
+		241
 	],
 	"camera_position": [
-		80,
-		-30
+		-470,
+		-430
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
